@@ -1,1 +1,2 @@
 # Network-Application-Using-Python
+This repository contains a collection of network applications developed using Python, demonstrating various application layer protocols. The project includes implementations of key protocols used for communication over networks, providing practical examples and insights into how these protocols operate. By leveraging Python's powerful networking libraries, these applications showcase the implementation and functioning of protocols such as TCP and, UDP.
